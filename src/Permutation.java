@@ -20,4 +20,5 @@ public class Permutation {
         printPerm(str, "");
         System.out.println("Last permutation: " + permutations.get(permutations.size() - 1));
     }
+
 }
