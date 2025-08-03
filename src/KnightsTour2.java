@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class KnightsTour2 {
+    // enter value of N for different grid (different size of chess board).
     static int N = 8;
     static int[][] board = new int[N][N];
 
